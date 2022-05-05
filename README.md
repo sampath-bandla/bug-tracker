@@ -16,4 +16,28 @@ Frontend - ReactJS
 ## How to Run
 ### Spep 1:
 Clone this repositery
-`git clone `
+`git clone https://github.com/sampath-bandla/bug-tracker.git`
+
+### Step 2:
+Goto cloned directory
+`cd bug-tracker`
+
+### Step 4:
+Install client dependecies
+`cd client`
+`npm install` or `npm i`
+
+Install server dependecies
+`cd server`
+`npm install` or `npm i`
+
+### Step 5:
+Run Server and Client
+`cd client`
+`npm run dev`
+
+and open other terminal
+`cd server`
+`npm start`
+
+
