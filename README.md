@@ -1,7 +1,7 @@
 # Bug Tracker
 This is a open source bug tracker for individual and organization. Anyone can host anywhere, anytime.
 
-##Status
+## Status
 On Progress
 -> Database Models :fa-check:
 -> Server API Calls :fa-check:
