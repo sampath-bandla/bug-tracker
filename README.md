@@ -2,10 +2,10 @@
 This is a open source bug tracker for individual and organization. Anyone can host anywhere, anytime.
 
 ## Status
-On Progress
--> Database Models :fa-check:
--> Server API Calls :fa-check:
--> Connect to backend :fa-check:
+On Progress<br>
+-> Database Models :fa-check:<br>
+-> Server API Calls :fa-check:<br>
+-> Connect to backend :fa-check:<br>
 -> Frontend :fa-clock-o:
 
 ## Technologies Used
