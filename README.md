@@ -3,10 +3,10 @@ This is a open source bug tracker for individual and organization. Anyone can ho
 
 ## Status
 On Progress<br>
--> Database Models :fa-check:<br>
--> Server API Calls :fa-check:<br>
--> Connect to backend :fa-check:<br>
--> Frontend :fa-clock-o:
+-> Database Models ✔️<br>
+-> Server API Calls ✔️<br>
+-> Connect to backend ✔️<br>
+-> Frontend 🕐
 
 ## Technologies Used
 Database - MongoDB
