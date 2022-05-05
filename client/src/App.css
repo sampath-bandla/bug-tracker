@@ -1,0 +1,27 @@
+/* 1366×768 	
+1920×1080
+1536×864 	
+1440×900 	
+1280×720 	
+1600×900 
+1280×800 	
+1280×1024 	
+1024×768 	
+768×1024 */
+
+
+.nav {
+    z-index: 999;
+}
+
+
+.nav-logo__custom-style__big {
+    box-shadow: inset 0 0 0 3px #1D1C23, 0 0 0 2px #F4F4F4;
+}
+
+.nav-logo__custom-style__small {
+    box-shadow: inset 0 0 0 2px #1D1C23, 0 0 0 2px rgb(244, 244, 244);
+}
+
+  
+  
